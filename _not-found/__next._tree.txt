@@ -1,0 +1,4 @@
+:HL["/react-bits-demo/_next/static/chunks/2jyiocr_rbx8q.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"PEw84J1sJu8bvYpEle9lc","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
